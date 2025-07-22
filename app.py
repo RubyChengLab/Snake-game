@@ -67,4 +67,4 @@ st.image(canvas, width=400)
 
 # 自動更新
 time.sleep(SPEED)
-st.experimental_rerun()
+
