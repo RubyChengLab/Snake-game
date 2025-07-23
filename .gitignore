@@ -1,3 +1,21 @@
+<<<<<<< HEAD
 "__pycache__/" 
 "*.pyc" 
 ".DS_Store" 
+=======
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+>>>>>>> 97dd8d2f68426bcc3eda0dac389f74ebe050fec1
